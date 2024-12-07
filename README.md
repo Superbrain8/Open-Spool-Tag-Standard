@@ -18,7 +18,9 @@ a Standard to Define the Data Stored on a RFID Tag used on Filament Spools using
 - Key 11 Blocked (Trailing Block)
 - Key 12 Gross Weight
 - Key 13 Spool Weight
-- Key 14 User Defined ID (Spoolman)*
+- Key 14 Remaining Weight*
+- Key 15 Blocked (Trailing Block)
+- Key 16 User Defined ID (Spoolman)*
 
  *optional\
  **Can be password protected by Manufacturer
